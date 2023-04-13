@@ -1,6 +1,3 @@
-from typing import List
-
-
 def my_function():
     x = False
     sum_list = 0
